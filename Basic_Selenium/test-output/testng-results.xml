@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-10T15:33:20 IST" name="Default suite" finished-at="2024-12-10T15:33:20 IST" duration-ms="115">
+    <groups>
+    </groups>
+    <test started-at="2024-12-10T15:33:20 IST" name="Default test" finished-at="2024-12-10T15:33:20 IST" duration-ms="115">
+      <class name="testNG.Script_5">
+        <test-method signature="Contact()[pri:0, instance:testNG.Script_5@34123d65]" started-at="2024-12-10T15:33:20 IST" name="Contact" finished-at="2024-12-10T15:33:20 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact -->
+        <test-method signature="Chat()[pri:0, instance:testNG.Script_5@34123d65]" started-at="2024-12-10T15:33:20 IST" name="Chat" finished-at="2024-12-10T15:33:20 IST" depends-on-methods="testNG.Script_5.Contact" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chat -->
+      </class> <!-- testNG.Script_5 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
